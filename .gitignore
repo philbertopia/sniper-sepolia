@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+bot-polygon.log
+
+# Environment variables
+.env
+
+# SQLite database
+bot-polygon.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
